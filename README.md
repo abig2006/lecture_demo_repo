@@ -1,6 +1,6 @@
 # lecture demo 
 
-i create this for my lecture demo 
+i create this for my yyyyyyy demo 
 
 # additional comments 
 
