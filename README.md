@@ -1,2 +1,11 @@
-# lecture_demo_repo
-This is the repo i creat for my lecture video 
+# lecture demo 
+
+i create this for my lecture demo 
+
+# additional comments 
+
+I think this is very cool
+
+item 1
+item 2
+item 3
